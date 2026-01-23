@@ -1,7 +1,7 @@
 # TuongCoffee's repository
 
-A set of scripts written throughout my scripting knowledge acquisition process.
+A set of scripts developed throughout the course of the scriping knowledge acquisition.
 
-Each file is filled with experiments, practice exercises, or ideas developed along the way.
+The code in this repository is a record of my continuing process of learning, experimenting, and expanding my knowledge of scripting concepts through the years.
 
-However, Publicly shared for learning purposes Licensed under **GNU General Public License v3.0 (GPL v3.0)**
+Each file is full of experiments, practice problems, or ideas that have been developed as we’ve proceeded. There are plenty of simple experiments as well as more sophisticated logic studies present in the code. While it may not be pure or necessarily optimal as it could have been, it was learning in process. *Public repository, free to use for learning – Licensed under: GNU General Public License v3.0 *
