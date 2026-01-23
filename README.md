@@ -1,9 +1,12 @@
 # TuongCoffee's repository
 
-![*Stray end game*](/stuffs/images/thumbnail)
+![*Stray ending scene*](/stuffs/images/thumbnail)
 
 A set of scripts developed throughout the course of the scriping knowledge acquisition.
 
-The code in this repository is a record of my continuing process of learning, experimenting, and expanding my knowledge of scripting concepts through the years.
+The code in this repository is a record of my continuing process of learning, experimenting, and expanding my knowledge of scripting concepts.
 
-Each file is full of experiments, practice problems, or ideas that have been developed as we’ve proceeded. There are plenty of simple experiments as well as more sophisticated logic studies present in the code. While it may not be pure or necessarily optimal as it could have been, it was learning in process. ***public repository, free to use for learning / testing / etc – Licensed under: GNU General Public License v3.0***
+Each file is full of experiments, practice problems, or ideas that have been developed as we’ve proceeded. There are plenty of simple experiments as well as more sophisticated logic studies present in the code. While it may not be pure or necessarily optimal as it could have been, it was learning in process. ***public repository, free to use for learning / testing / etc – Licensed under: GNU General Public License v3.0***.
+
+> Note:
+> I'm Vietnamese so i might misspelled some word so please tell me to fix it.
