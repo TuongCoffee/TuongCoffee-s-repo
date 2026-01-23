@@ -1,5 +1,7 @@
 # TuongCoffee's repository
 
+![*Stray end game*](/stuffs/images/thumbnail)
+
 A set of scripts developed throughout the course of the scriping knowledge acquisition.
 
 The code in this repository is a record of my continuing process of learning, experimenting, and expanding my knowledge of scripting concepts through the years.
