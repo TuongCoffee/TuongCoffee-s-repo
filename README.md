@@ -2,22 +2,32 @@
 
 ![*Stray ending scene*](/stuffs/images/thumbnail)
 
-## Why do *I* made this repository?
+## Why did I make this repository?
 
-Just for learning scripting with many scripting-languages with `.js` (Javascript) language file format with *Chat-GPT* because i dont have teachers to teach me how to script :'(
+This repository was created for learning scripting using multiple programming languages, mainly `.js` (JavaScript), with the help of *ChatGPT*.  
+I don’t currently have a teacher to guide me, so this repo acts as a place to learn, practice, and improve step by step.
 
-I'm *planning* to study **2** languages at *once*. It's `.js` (Javascript) and `.py` (Python).
+I am currently *planning* to study **two** languages at the same time:  
+`.js` (JavaScript) and `.py` (Python).
 
-## What is this repository for?
+## What’s in this repository?
 
-A set of scripts developed throughout the course of the *scriping-learning progress*.
+This repository contains a collection of scripts developed throughout my *scripting learning process*.
 
-The code in this repository is a record of my continuing process of learning, experimenting, and expanding my knowledge of scripting concepts.
+The code here represents my ongoing journey of *learning*, *experimenting*, and *expanding* my understanding of scripting concepts over time.
 
 ## License
 
-Each file is full of experiments, practice problems, or ideas that have been developed as I’ve proceeded. There are plenty of simple experiments as well as more sophisticated logic studies present in the code. While it may not be pure or necessarily optimal as it could have been, it was learning in process. **public repository, free to use for learning / testing / etc – Licensed under: _GNU General Public License v3.0_**.
+Each file includes experiments, practice problems, or ideas developed along the way.  
+You will find both simple tests and more advanced logic explorations. The code may not always be clean or optimized, as it reflects learning in progress.
+
+You are allowed to use the code **without asking for permission**, but **credit is required** if you publish your work.  
+You may use the code *without credit* only if your work is not made public.
+
+**Public repository — free to use for learning, testing, and experimentation.  
+Licensed under _GNU General Public License v3.0_.**
 
 ## Note
 
-I'm *Vietnamese* so i might misspelled some word so please tell me to fix it.
+I’m *Vietnamese*, so I may make spelling or grammar mistakes.  
+If you notice any issues, feel free to let me know so I can fix them ;)
