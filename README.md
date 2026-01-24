@@ -2,11 +2,21 @@
 
 ![*Stray ending scene*](/stuffs/images/thumbnail)
 
-A set of scripts developed throughout the course of the scriping knowledge acquisition.
+## Why do you made this repository?
+
+Just for learning scripting with many scripting-languages with `.js` (Javascript) language file format with *Chat-GPT* because i dont have teachers to teach me how to script :'(
+I'm *planning* to study **2** languages at *once*. It's `.js` (Javascript) and `.py` (Python).
+
+## What is this repository for?
+
+A set of scripts developed throughout the course of the *scriping-learning progress*.
 
 The code in this repository is a record of my continuing process of learning, experimenting, and expanding my knowledge of scripting concepts.
 
-Each file is full of experiments, practice problems, or ideas that have been developed as we’ve proceeded. There are plenty of simple experiments as well as more sophisticated logic studies present in the code. While it may not be pure or necessarily optimal as it could have been, it was learning in process. ***public repository, free to use for learning / testing / etc – Licensed under: GNU General Public License v3.0***.
+## License
 
-> Note:
-> I'm Vietnamese so i might misspelled some word so please tell me to fix it.
+Each file is full of experiments, practice problems, or ideas that have been developed as I’ve proceeded. There are plenty of simple experiments as well as more sophisticated logic studies present in the code. While it may not be pure or necessarily optimal as it could have been, it was learning in process. **public repository, free to use for learning / testing / etc – Licensed under: _GNU General Public License v3.0_**.
+
+## Note
+
+I'm *Vietnamese* so i might misspelled some word so please tell me to fix it.
