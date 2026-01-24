@@ -42,5 +42,5 @@ Vì vậy, hãy thoải mái sử dụng code của tui để thử nghiệm! :)
 
 ## Ghi chú
 
-If you notice any issues, feel free to let me know so I can fix them ;)
-I also use some **Chat-GPT** for these `README.md` file.
+Nếu bn thấy bất cứ vấn đề nào thì cứ thoải mái báo cho tui biết để tui có thể sửa chúng nhé ;)
+Tui cx có sài **Chat-GPT** cho mấy cái `README.md` file.
