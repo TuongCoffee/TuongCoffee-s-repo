@@ -13,32 +13,30 @@ I am currently *planning* to study **two** languages at the same time. It's `.js
 
 ### 2. Making stuff
 
-This repository also store some of my stuff so others can use it too!
+This repository also store some of my stuff so others can use it too!  
 Remember to credit if u want to make somthing that's contain my stuff.
 
 ### 3. For testing script
 
-In here, it will have some list, array, etc to test your code.
+In here, it will have some list, array, etc to test your code.  
 Like, you want to make a script thats gonna take some data from the Internet. This repository is for you.
 
 
 ## What’s in this repository?
 
-Contains alot of scripts created throughout my *scripting learning process*.
-
+Contains alot of scripts created throughout my *scripting learning process*.  
 The code here represents my ongoing journey of *learning*, *experimenting*, and *expanding* my understanding of scripting over the days.
 
 ## License
 
-Each file includes experiments, practice problems, or ideas developed along the way.
+Each file includes experiments, practice problems, or ideas developed along the way.  
 You will find both simple tests and more advanced logic explorations. The code may not always be clean or optimized, as it reflects learning in progress.
 
-You are allowed to use the code **without asking for permission**, but **credit is required** if you publish your work.
+You are allowed to use the code **without asking for permission**, but **credit is required** if you publish your work.  
 You may use the code *without credit* only if your work is not made public.
 
 **Public repository — free to use for learning, testing, and experimentation.
-Licensed under _GNU General Public License v3.0_.**
-
+Licensed under _GNU General Public License v3.0_.**  
 So, feel free to use my code for testing! :)
 
 > [!NOTE]
