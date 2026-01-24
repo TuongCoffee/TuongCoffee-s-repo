@@ -1,8 +1,10 @@
 # TuongCoffee's repository
 
-![*Stray ending scene*](/stuffs/images/thumbnail)
+![*Stray ending scene*](/stuffs/images/stray_ending_scene)
 
 ## Why did I make this repository?
+
+### 1. Learning to script
 
 This repository was created for learning scripting using multiple programming languages, mainly `.js` (JavaScript), with the help of *ChatGPT*.  
 I don’t currently have a teacher to guide me, so this repo acts as a place to learn, practice, and improve step by step.
@@ -10,11 +12,22 @@ I don’t currently have a teacher to guide me, so this repo acts as a place to 
 I am currently *planning* to study **two** languages at the same time:  
 `.js` (JavaScript) and `.py` (Python).
 
+### 2. Making stuff
+
+This repository also store some of my stuff so others can use it too!
+Remember to credit if u want to make somthing that's contain my stuff.
+
+### 3. For testing script
+
+In here, it will have some list, array, etc to test your code.
+Like, you want to make a script thats gonna take some data from the Internet. This repository is for you.
+
+
 ## What’s in this repository?
 
-This repository contains a collection of scripts developed throughout my *scripting learning process*.
+Contains alot of scripts created throughout my *scripting learning process*.
 
-The code here represents my ongoing journey of *learning*, *experimenting*, and *expanding* my understanding of scripting concepts over time.
+The code here represents my ongoing journey of *learning*, *experimenting*, and *expanding* my understanding of scripting over time.
 
 ## License
 
