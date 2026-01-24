@@ -5,6 +5,7 @@
 ## Why do you made this repository?
 
 Just for learning scripting with many scripting-languages with `.js` (Javascript) language file format with *Chat-GPT* because i dont have teachers to teach me how to script :'(
+
 I'm *planning* to study **2** languages at *once*. It's `.js` (Javascript) and `.py` (Python).
 
 ## What is this repository for?
