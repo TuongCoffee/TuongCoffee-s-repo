@@ -2,7 +2,7 @@
 
 ![*Stray ending scene*](/stuffs/images/thumbnail)
 
-## Why do you made this repository?
+## Why do *I* made this repository?
 
 Just for learning scripting with many scripting-languages with `.js` (Javascript) language file format with *Chat-GPT* because i dont have teachers to teach me how to script :'(
 
