@@ -1,4 +1,4 @@
-# TuongCoffee's repository
+# TuongCoffee's repository (EN-US)
 
 ![*Stray ending scene*](/stuffs/images/stray_ending_scene)
 
