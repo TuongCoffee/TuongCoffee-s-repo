@@ -30,7 +30,7 @@ Mấy file ở đây thể hiện hành trình *học hỏi*, *thử nghiệm* v
 ## Giấy phép
 
 Mỗi tập tin bao gồm các thí nghiệm, bài tập thực hành hoặc các ý tưởng được phát triển trong quá trình học tập.  
-Bạn sẽ tìm thấy cả các bài kiểm tra đơn giản và các bài toán logic nâng cao hơn.
+Bạn sẽ tìm thấy cả các bài kiểm tra đơn giản và các bài toán logic nâng cao hơn. Các script ko luôn luôn sạch sẽ hoặc đc tối ưu vì nó phản ánh quá trình học tập đang diễn ra.
 
 Bạn được phép sử dụng mã nguồn **mà không cần xin phép**, nhưng **phải ghi credit** nếu bạn công bố tác phẩm của mình.  
 Bạn chỉ có thể sử dụng mã nguồn *mà không cần ghi credit* nếu tác phẩm của bạn không được công khai.
