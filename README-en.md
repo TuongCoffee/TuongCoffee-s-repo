@@ -27,7 +27,7 @@ Like, you want to make a script thats gonna take some data from the Internet. Th
 
 Contains alot of scripts created throughout my *scripting learning process*.
 
-The code here represents my ongoing journey of *learning*, *experimenting*, and *expanding* my understanding of scripting over time.
+The code here represents my ongoing journey of *learning*, *experimenting*, and *expanding* my understanding of scripting over the days.
 
 ## License
 
@@ -40,7 +40,10 @@ You may use the code *without credit* only if your work is not made public.
 **Public repository — free to use for learning, testing, and experimentation.  
 Licensed under _GNU General Public License v3.0_.**
 
+So, feel free to use my code for testing! :)
+
 ## Note
 
 I’m *Vietnamese*, so I may make spelling or grammar mistakes.  
 If you notice any issues, feel free to let me know so I can fix them ;)
+I also use some **Chat-GPT** for these `README.md` file.
