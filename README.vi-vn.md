@@ -40,7 +40,7 @@ Bạn chỉ có thể sử dụng mã nguồn *mà không cần ghi credit* nế
 
 Vì vậy, hãy thoải mái sử dụng code của tui để thử nghiệm! :)
 
-## Ghi chú
-
-Nếu bn thấy bất cứ vấn đề nào thì cứ thoải mái báo cho tui biết để tui có thể sửa chúng nhé ;)
-Tui cx có sài **Chat-GPT** cho mấy cái `README.md` file.
+> [!NOTE]
+> Nếu bn thấy bất cứ vấn đề nào thì cứ thoải mái báo cho tui biết để tui có thể sửa chúng nhé ;)
+> 
+> Tui cx có sài **Chat-GPT** cho mấy cái `README.md` file.
