@@ -1,4 +1,4 @@
-# TuongCoffee's repository (EN-US)
+# TuongCoffee's repository
 
 ![*Stray ending scene*](/stuffs/images/stray_ending_scene)
 
@@ -7,9 +7,7 @@
 ### 1. Learning to script
 
 This repository was created for learning scripting using multiple programming languages, mainly `.js` (JavaScript), with the help of *ChatGPT*.  
-I don’t currently have a teacher to guide me, so this repo acts as a place to learn, practice, and improve step by step.
-
-I am currently *planning* to study **two** languages at the same time. It's `.js` (JavaScript) and `.py` (Python).
+I don’t currently have a teacher to guide me, so I use **Chat-GPT** to learn, practice, and improve my skils step by step.
 
 ### 2. Making stuff
 
@@ -38,6 +36,8 @@ You may use the code *without credit* only if your work is not made public.
 **Public repository — free to use for learning, testing, and experimentation.
 Licensed under _GNU General Public License v3.0_.**  
 So, feel free to use my code for testing! :)
+
+## Others
 
 > [!NOTE]
 > I’m *Vietnamese*, so I may make spelling or grammar mistakes.
