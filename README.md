@@ -33,15 +33,16 @@ You will find both simple tests and more advanced logic explorations. The code m
 You are allowed to use the code **without asking for permission**, but **credit is required** if you publish your work.  
 You may use the code *without credit* only if your work is not made public.
 
-**Public repository — free to use for learning, testing, and experimentation.
-Licensed under _GNU General Public License v3.0_.**  
+**Public repository — free to use for learning, testing, and experimentation.  
+Licensed under _GNU General Public License v3.0_**.  
 So, feel free to use my code for testing! :)
 
 ## Others
 
-> [!NOTE]
-> I’m *Vietnamese*, so I may make spelling or grammar mistakes.
+> [!IMPORTANT]
+> This repository is not fully completed.
 > 
+> I’m *Vietnamese*, so I may make spelling or grammar mistakes.  
 > If you notice any issues, feel free to let me know so I can fix them ;)
 > 
 > I also use some **Chat-GPT** for these `README.md` file.
