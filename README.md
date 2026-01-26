@@ -46,3 +46,5 @@ So, feel free to use my code for testing! :)
 > If you notice any issues, feel free to let me know so I can fix them ;)
 > 
 > I also use some **Chat-GPT** for these `README.md` file.
+
+![*Stray ending scene 2*](/stuffs/images/stray_ending_scene2)
