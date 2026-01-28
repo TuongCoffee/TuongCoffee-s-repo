@@ -14,7 +14,7 @@ analyzeData.debug = Object.freeze({
 
 // function
 function analyzeData (input, option = {}) {
-    // validate input type
+    // validate inputfs.readFileSync(SCORE_FILE, "utf8") type
     if (!Array.isArray(input)) {
         return analyzeData.debug.invalid.input;
     }
