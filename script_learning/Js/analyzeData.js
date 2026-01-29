@@ -34,7 +34,7 @@ function analyzeData(input, option = {}) {
     const min =
         typeof option.min === "number" && !Number.isNaN(option.min)
             ? option.min
-            : 0;
+            : undefined;
 
     const mode =
         option.mode === MODE.strict
@@ -58,7 +58,7 @@ function analyzeData(input, option = {}) {
             continue;
         }
 
-        if (item >= min) {
+        if (min === undefined || item >= min) {
             data.validCount += 1;
             data.total += item;
         } else {
