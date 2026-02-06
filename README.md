@@ -89,4 +89,4 @@ If your project is private or not published, you may use the code without credit
 >
 > Some parts of this `README.md` were written with the help of **ChatGPT**.
 
-![*Stray ending scene 2*](/stuffs/images/stray_ending_scene2)# TuongCoffee's repository
+![*Stray ending scene 2*](/stuffs/images/stray_ending_scene2)
