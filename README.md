@@ -1,7 +1,7 @@
 # TuongCoffee's repository
 
 ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
-![JavaScript](https://img.shields.io/badge/Main%20Language-JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/Main%20Language-TypeScript-blue)
 ![Learning](https://img.shields.io/badge/Status-Learning-informational)
 ![Beginner](https://img.shields.io/badge/Level-Beginner-success)
 
@@ -47,7 +47,7 @@ Just for fun :)
 
 #### 1. Learning to script
 
-This repository was created to learn scripting using multiple programming languages, mainly `.js` (JavaScript), with the help of **ChatGPT**.  
+This repository was created to learn scripting using multiple programming languages, mainly `.ts` or `.js` (JvaScript or TypeScript), with the help of **ChatGPT**.  
 I don’t currently have a teacher to guide me, so I use ChatGPT to learn, practice, and improve my **skills** step by step.
 
 #### 2. Making stuff
