@@ -37,6 +37,14 @@ Eventually, I stopped learning for a while due to personal limitations.
 That’s it. <sub>The end.</sub>  
 Thanks for readi— just kidding, it’s not over yet.
 
+### Stuffs
+
+I currently use Termux as my main terminal.
+I code with Acode, a code editor for Android.
+
+My device is a low-end Samsung Galaxy A11.
+It has only a few gigabytes of free storage.
+
 ---
 
 ## About this repository
